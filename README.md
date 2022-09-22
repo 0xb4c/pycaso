@@ -32,7 +32,7 @@ python3 solver.py -b <base64-image-file-path>
 python3 solver.py -i <local-image-file-path>
 ```
 
-## Examples:
+## Examples
 * Solve captcha from specific URL
 
 ![](examples/solve_url.png)
