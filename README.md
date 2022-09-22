@@ -1,9 +1,9 @@
 # pycaso - SIMPLE OCR-BASED CAPTCHA SOLVER
 
 ## Description
-```
+
 pycaso allows to solve simple captcha from URL, image file or from base64 string. This tool uses OCR (optical character recognition) method to extract text from images, based on python's tesseract package.
-```
+
 
 ## Requirement
 - Tested on Python 3.6
