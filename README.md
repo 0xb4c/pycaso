@@ -34,6 +34,7 @@ python3 solver.py -i <local-image-file-path>
 
 ## Examples
 * Solve captcha from specific URL
+![](examples/solve_url_0.png)
 
 ![](examples/solve_url.png)
 
