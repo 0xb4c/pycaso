@@ -13,21 +13,21 @@
 pip3 install -r requirements.txt 
 ```
 ## Usage
-### 0. Help
+#### 0. Help
 ```
 python3 solver.py --help
 ```
-### 1. Solve captcha from specific URL
+#### 1. Solve captcha from specific URL
 ```
 python3 solver.py -u <URL>
 ```
 
-### 2. Solve captcha from base64 string
+#### 2. Solve captcha from base64 string
 ```
 python3 solver.py -b <base64-image-file-path>
 ```
 
-### 3. Solve captcha from local captcha image
+#### 3. Solve captcha from local captcha image
 ```
 python3 solver.py -i <local-image-file-path>
 ```
