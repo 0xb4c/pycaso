@@ -7,6 +7,12 @@
 
 ## Requirement
 - Tested on Python 3.6
+- Install Tesseract OCR
+
+```
+sudo apt install tesseract-ocr
+```
+
 - Python modules: `Pillow`, `pytesseract`, `requests`
 
 ```
