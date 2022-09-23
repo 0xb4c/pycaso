@@ -1,4 +1,4 @@
-# pycaso - SIMPLE OCR-BASED CAPTCHA SOLVER
+# pycaso - Simple OCR-based Captcha Solver
 
 ## Description
 
